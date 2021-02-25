@@ -3,7 +3,7 @@
 ## OS X
 ### IAST, with extensions
 
-Devanāgarī | IAST Letter | SuPadma input | Extension?
+Devanāgarī | IAST Letter | SuPadma input | IAST Extension?
 ----------- | ----------- | ------------- | ---------
 अ|a|a
 आ|ā|[a
