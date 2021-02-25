@@ -26,6 +26,7 @@ Devanāgarī | IAST Letter | SuPadma input | IAST Extension?
 ः|ḥ|[h
 ᳵ|ḫ|[k|Yes
 ᳶ|ẖ|[p|Yes
+ँ|~|~|Yes
 ँ|n̐|[9|Yes
 ँ|m̐|[0|Yes
 य्ँ|m̐y|[0y|Yes
