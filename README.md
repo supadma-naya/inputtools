@@ -104,6 +104,7 @@ Devanāgarī | SuPadma input
 ड़|Dq
 ढ़|Dhq
 ळ|Lq
+ऴ|Lqq
 ।|\
 ॥|\\\\
 १|1
