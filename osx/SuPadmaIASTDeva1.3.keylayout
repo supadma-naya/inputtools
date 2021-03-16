@@ -969,6 +969,7 @@
         <action id="E">
             <when state="none" output="E"/>
             <when state="ls" output="Ĕ"/>
+            <when state="rs" output="Æ"/>
         </action>
         <action id="F">
             <when state="none" output="F"/>
@@ -1018,6 +1019,7 @@
         <action id="O">
             <when state="none" output="O"/>
             <when state="ls" output="Ŏ"/>
+            <when state="rs" output="Ô"/>
         </action>
         <action id="P">
             <when state="none" output="P"/>
@@ -1120,6 +1122,7 @@
         <action id="e">
             <when state="none" output="e"/>
             <when state="ls" output="ĕ"/>
+            <when state="rs" output="æ"/>
         </action>
         <action id="f">
             <when state="none" output="f"/>
@@ -1173,6 +1176,7 @@
         <action id="o">
             <when state="none" output="o"/>
             <when state="ls" output="ŏ"/>
+            <when state="rs" output="ô"/>
         </action>
         <action id="p">
             <when state="none" output="p"/>
