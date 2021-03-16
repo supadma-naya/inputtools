@@ -23,8 +23,8 @@ Devanāgarī | IAST Letter | SuPadma input | IAST Extension?
 ऒ|ŏ|[o|Yes
 ओ|o|o
 अउ|aü|a]u
-ऑ|ô|]o|Yes
 औ|au|au
+ऑ|ô|]o|Yes
 ं|ṃ|[m
 ं|ṁ|[8|Yes
 ः|ḥ|[h
@@ -99,6 +99,10 @@ Devanāgarī | IAST Letter | SuPadma input | IAST Extension?
 
 Devanāgarī | SuPadma input
 ----------- | -------------
+ऎ|[e
+ऒ|[o
+ऍ|]e
+ऑ|]o
 ᳵ|K
 ᳶ|P
 ँ|~
