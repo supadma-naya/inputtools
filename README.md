@@ -19,10 +19,12 @@ Devanāgarī | IAST Letter | SuPadma input | IAST Extension?
 ऐ|e|e
 अइ|aï|a]i
 ऐ|ai|ai
+ऍ|æ|]e|Yes
 ऒ|ŏ|[o|Yes
 ओ|o|o
 अउ|aü|a]u
 औ|au|au
+ऑ|ô|]o|Yes
 ं|ṃ|[m
 ं|ṁ|[8|Yes
 ः|ḥ|[h
@@ -97,6 +99,10 @@ Devanāgarī | IAST Letter | SuPadma input | IAST Extension?
 
 Devanāgarī | SuPadma input
 ----------- | -------------
+ऎ|[e
+ऒ|[o
+ऍ|]e
+ऑ|]o
 ᳵ|K
 ᳶ|P
 ँ|~
