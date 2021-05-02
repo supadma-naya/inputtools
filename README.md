@@ -1,6 +1,6 @@
 # inputtools
 
-## OS X
+## OS X, Version: SuPadmaIASTDeva1.4.keylayout
 ### IAST, with extensions
 
 Devanāgarī | IAST Letter | SuPadma input | IAST Extension?
